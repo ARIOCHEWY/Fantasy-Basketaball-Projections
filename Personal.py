@@ -10,7 +10,7 @@ def app():
     
     
 
-    st.title ("Personal Ario")
+    st.title ("Personal me")
     Fantasy.app()
 
 
