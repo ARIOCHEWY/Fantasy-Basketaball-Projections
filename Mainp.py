@@ -28,7 +28,7 @@ def app():
 #         })
 
 with st.sidebar:
-    # Use session state to keep track of selected app
+    # Use session state to keep track of selected app havbdfjhvasjhdsvj
     state.selected_app = option_menu(
         menu_title='Fantasy Figures',
         options=['Fantasy', 'Personal', 'Streaming'],
